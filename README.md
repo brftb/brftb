@@ -23,19 +23,20 @@ Here are some ideas to get you started:
 | Rank | Language   | Experience |
 | ---- | ---------- | ---------- |
 | 1    | PHP        | 2 year     |
-| 2    | CSS(SCSS)  | 2 year     |
-| 3    | SQL        | 2 year     |
-| 4    | HTML       | 2 year     |
-| 5    | Java       | 1 year     |
+| 2    | CSS(SCSS)  | 3 year     |
+| 3    | SQL        | 3 year     |
+| 4    | HTML       | 3 year     |
+| 5    | Java       | 2 year     |
 | 6    | JavaScript | 1 year     |
-| 7    | Python     | 3 month    |
+| 7    | Python     | 4 month    |
 | 8    | C          | 6 month    |
 | 9    | Fortran    | 6 month    |
-| 10   | Swift      | 3 month    |
+| 10   | Swift      | 6 month    |
 
 ## Frameworks
 * Bootstrap
 * jQuery
+* Electron
 
 ## Web Servers
 * Apache
@@ -46,8 +47,9 @@ Here are some ideas to get you started:
 * MySQL
 * MariaDB
 
-## cloud
+## Cloud
 * Azure
+* AWS Lightsail
 * AWS EC2
 
 ## Package Managers
