@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 | Rank | Language   | Experience |
 | ---- | ---------- | ---------- |
-| 1    | PHP        | 2 year     |
+| 1    | PHP        | 3 year     |
 | 2    | CSS(SCSS)  | 3 year     |
 | 3    | SQL        | 3 year     |
-| 4    | HTML       | 3 year     |
+| 4    | HTML       | 4 year     |
 | 5    | Java       | 2 year     |
-| 6    | JavaScript | 1 year     |
-| 7    | Python     | 4 month    |
+| 6    | JavaScript | 2 year     |
+| 7    | Python     | 6 month    |
 | 8    | C          | 6 month    |
 | 9    | Fortran    | 6 month    |
 | 10   | Swift      | 6 month    |
@@ -57,7 +57,12 @@ Here are some ideas to get you started:
 * Homebrew
 * NPM
 
+## Platform?
+* Unity
+* Docker
+* Docker-compose
+
 # SNS
-* Mail Address : 05017hal@gmail.com
+* Mail Address : takeda.kotaro.hal@gmail.com
+* Qiita : https://qiita.com/takekota
 <!-- * Twitter :  -->
-<!-- * Qiita :  -->
