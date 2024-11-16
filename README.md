@@ -22,45 +22,46 @@ Here are some ideas to get you started:
 
 | Rank | Language   | Experience |
 | ---- | ---------- | ---------- |
-| 1    | PHP        | 3 year     |
-| 2    | CSS(SCSS)  | 3 year     |
-| 3    | SQL        | 3 year     |
+| 1    | SQL        | 4 year     |
+| 2    | CSS        | 4 year     |
+| 3    | JavaScript | 3 year     |
 | 4    | HTML       | 4 year     |
-| 5    | Java       | 2 year     |
-| 6    | JavaScript | 2 year     |
-| 7    | Python     | 6 month    |
-| 8    | C          | 6 month    |
-| 9    | Fortran    | 6 month    |
-| 10   | Swift      | 6 month    |
+| 5    | PHP        | 2 year     |
+| 6    | Java       | 2 year     |
+| 7    | C          | 8 month    |
+| 8    | C++        | 3 month    |
+| 9    | C#         | 3 month    |
+| 10   | Python     | 6 month    |
+| 11   | Fortran    | 6 month    |
+| 12   | Swift      | 6 month    |
 
 ## Frameworks
+* SCSS
 * Bootstrap
 * jQuery
-* Electron
-
-## Web Servers
-* Apache
-* Tomcat
+* Prisma
 * Node.js
+* React
+* MUI
+* TypeScript
+* Vite
+* NestJS
 
 ## Databases
 * MySQL
 * MariaDB
 
+# Develop tools
+* AndroidStudio
+* Electron
+* WindowsFormApp
+* Docker
+* Vagrant
+
 ## Cloud
 * Azure
-* AWS Lightsail
 * AWS EC2
-
-## Package Managers
-* Composer
-* Homebrew
-* NPM
-
-## Platform?
-* Unity
-* Docker
-* Docker-compose
+* AWS Lightsail
 
 # SNS
 * Mail Address : takeda.kotaro.hal@gmail.com
